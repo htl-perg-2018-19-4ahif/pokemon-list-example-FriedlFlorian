@@ -1,0 +1,25 @@
+{
+  "name": "pokemon-list-example-friedlflorian",
+  "version": "1.0.0",
+  "description": "In this exercise, you have to implement a website that uses a RESTful Web API in the background. You have to create the website from scratch without any initial templates to build on. Feel free to use prior homeworks or samples from the course material as a starting point.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htl-perg-2018-19-4ahif/pokemon-list-example-FriedlFlorian.git"
+  },
+  "homepage": "https://github.com/htl-perg-2018-19-4ahif/pokemon-list-example-FriedlFlorian#readme",
+  "dependencies": {
+    "@types/es6-promise": "^3.3.0",
+    "browser-sync": "^2.26.3",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.3.25",
+    "@types/node": "^10.12.14",
+    "typescript": "^3.2.2"
+  }
+}
